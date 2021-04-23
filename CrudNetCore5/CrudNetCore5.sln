@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31205.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CrudNetCore5", "CrudNetCore5\CrudNetCore5.csproj", "{AE3D85E0-08A1-4080-A660-C5EB9133E4E3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AE3D85E0-08A1-4080-A660-C5EB9133E4E3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AE3D85E0-08A1-4080-A660-C5EB9133E4E3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AE3D85E0-08A1-4080-A660-C5EB9133E4E3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AE3D85E0-08A1-4080-A660-C5EB9133E4E3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DBEBD31B-C2E1-4E56-BFC5-4D8FC1B0188E}
+	EndGlobalSection
+EndGlobal
